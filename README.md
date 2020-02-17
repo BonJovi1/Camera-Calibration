@@ -1,6 +1,9 @@
 # Camera-Calibration
 Implementing two very popular camera calibration techniques: The Direct Linear Transform and Zhang's Method, and testing the quality of the parameters estimated from these calibration methods.  
 
+If the jupyter notebook doesn't load, use the notebook viewer: **[nbviewer](https://nbviewer.jupyter.org/github/BonJovi1/Camera-Calibration/blob/master/code.ipynb)** \
+Or else, check out `code.md`, because jupyter notebooks convert to markdown pretty well! 
+
 ### DLT 
 The Question:
 - For the given image `calib-object.jpg` using any 20-30 different points on different planes and perform the Direct Linear Transform (DLT) based calibration. Report the projection matrix, camera matrix, rotation matrix and projection center. Note that you need to manually estimate the image co-ordinates of the given world points and refer to calib-object-legend.jpg for world measurements. Each chessblock is 28X28 mm.
