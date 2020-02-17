@@ -1,8 +1,7 @@
 # Camera-Calibration
 Implementing two very popular camera calibration techniques: The Direct Linear Transform and Zhang's Method, and testing the quality of the parameters estimated from these calibration methods.  
 
-If the jupyter notebook doesn't load, use the notebook viewer: **[nbviewer](https://nbviewer.jupyter.org/github/BonJovi1/Camera-Calibration/blob/master/code.ipynb)** \
-Or else, check out `code.md`, because jupyter notebooks convert to markdown pretty well! 
+If the jupyter notebook doesn't load, use the notebook viewer: **[nbviewer](https://nbviewer.jupyter.org/github/BonJovi1/Camera-Calibration/blob/master/code.ipynb)** 
 
 ### DLT 
 The Question:
